@@ -19,6 +19,7 @@ This Python project implements a comprehensive package delivery management syste
 # Usage Instructions:
 
 # File Pathway Tree/ File Directory:
+Please check the File Pathway Tree File found in this project's repository.
 
 ## Installation & Setup:
 1.	Download or clone this repository to your local machine.
