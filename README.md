@@ -18,6 +18,8 @@ This Python project implements a comprehensive package delivery management syste
 
 # Usage Instructions:
 
+# File Pathway Tree/ File Directory:
+
 ## Installation & Setup:
 1.	Download or clone this repository to your local machine.
 2.	Ensure Python 3.11 is installed inside of a runnable IDE (Such as PyCharm).
