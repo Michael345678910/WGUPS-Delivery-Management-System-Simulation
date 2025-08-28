@@ -1,7 +1,11 @@
 # WGUPS Delivery Management System Simulation
+
 # Overview:
+
 This Python project implements a comprehensive package delivery management system for a simulated organization- WGUPS. It models real-world delivery operations, including data loading, package tracking, truck routing, and user interaction. This system allows for efficient planning of delivery routes, real-time package status checks, and delivery summaries. This application was designed with a focus on solving a real-world logistics problem: optimizing delivery routes for a fleet of trucks, while considering time constraints and mileage limits. The project integrates data structures, file handling, efficient algorithms, and a command-line interface to assist with solving this problem.
+
 # Features:
+
 -	Load package details, distances, and address data from CSV files
 -	Assign packages to specific trucks based on load capacity and time-sensitivity deadlines
 -	Calculate optimal delivery routes using closest first approach
@@ -10,6 +14,7 @@ This Python project implements a comprehensive package delivery management syste
 -	Keeps the total mileage per fleet to a strict limit of 140 miles
 -	Interactive command-line interface for package status inquiries at specific times
 -	Clear, organized code structure with modular components for easy scalability, allowing for the addition of more trucks/packages.
+
 ## Technologies Used:
 -	Python 3.11
 -	Provided CSV files for data input
